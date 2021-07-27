@@ -1,2 +1,3 @@
 Create Database Malian;
 Create Table RSMH;
+ALTER TABLE RSMH ADD nama varchar(25);
