@@ -1,0 +1,2 @@
+Create Database Malian;
+Create Table RSMH;
